@@ -1,0 +1,93 @@
+body{
+background-image:url("image black.jpg")
+
+}
+
+h1{
+  text-align: center;
+  color:aqua;
+  border:5px;
+  border-radius: 2px;
+}
+
+h3{
+    text-align: start;
+    color:gold;
+}
+
+
+.way{
+    color:crimson;
+
+}
+     
+
+p{
+    color:chartreuse;
+
+}
+
+.list{
+   color: azure;
+
+}
+
+h4{
+    text-align: start;
+    color:turquoise;
+}
+
+.ol{
+    text-align: start;
+    color:moccasin;
+}
+
+h2{
+    background-color:rgb(194, 15, 213);
+    color:antiquewhite;
+    text-shadow: 5px 5px 10px;
+    text-align: center;
+    text-decoration: wavy;
+}
+img{
+    height:300px;
+    width: 300px;
+}
+
+a{
+   color:white;
+   
+}
+   
+#rmn{
+    text-align: center;
+    font-size: larger;
+    padding-block: 20px;
+    color: firebrick;
+    text-decoration-color: blueviolet;
+}
+
+.pq{
+    text-align:start;
+}
+
+.tr img{
+    color:darkorange;
+    display:inline-block;
+    width:50px;
+    height:50px;
+    color:skyblue;
+    
+    
+    
+}
+
+h6{
+    color: skyblue;
+    height:fit-content;
+}
+
+address{
+    background-color:deeppink; 
+     text-align:right;
+ }
